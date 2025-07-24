@@ -20,7 +20,7 @@ O backend usa **SQLite** para armazenar dados de salas, usuários e reservas. O 
 
 ## Tecnologias Utilizadas
 
-- **Python 3.x**  
+- **Python**  
 - **Streamlit**: para construção da interface web interativa  
 - **SQLite3**: banco de dados leve para armazenamento local  
 - **Orientação a Objetos**: organização do código em classes para melhor manutenção
