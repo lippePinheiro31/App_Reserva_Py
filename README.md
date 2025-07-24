@@ -25,7 +25,7 @@ O backend usa **SQLite** para armazenar dados de salas, usuários e reservas. O 
 - **SQLite3**: banco de dados leve para armazenamento local  
 - **Orientação a Objetos**: organização do código em classes para melhor manutenção
   
-##Conceitos e Aprendizados
+## Conceitos e Aprendizados
 
 Este projeto é um excelente exemplo prático para aplicar:
 
